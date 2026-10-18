@@ -15,3 +15,5 @@ folders to skip are folders it will not move files from to be sorted basics incl
 - XR
 - XRI
 & more
+
+ not tested
